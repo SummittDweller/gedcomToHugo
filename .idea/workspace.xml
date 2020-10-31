@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cddc56f1-dd84-4067-8370-f56145ae95df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.3" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZsuyv1ZnWAZon6SMHS3LbJiQ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gedcomToHugo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="--gedcom /Volumes/GENEALOGY/BK6/RMcFate/rmcfate.GED --verbose --debug" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="142" key="#GOPATH" timestamp="1604023847129">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="435" y="142" key="#GOPATH/0.23.1440.826@0.23.1440.826" timestamp="1604023847129" />
+    <state x="99" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604026419029">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="99" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1604026419029" />
+    <state width="1194" height="201" key="GridCell.Tab.0.bottom" timestamp="1604026422342">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1194" height="201" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1604026422342" />
+    <state width="1194" height="201" key="GridCell.Tab.0.center" timestamp="1604026422340">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1194" height="201" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1604026422340" />
+    <state width="1194" height="201" key="GridCell.Tab.0.left" timestamp="1604026422337">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1194" height="201" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1604026422337" />
+    <state width="1194" height="201" key="GridCell.Tab.0.right" timestamp="1604026422341">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1194" height="201" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1604026422341" />
+  </component>
+</project>
